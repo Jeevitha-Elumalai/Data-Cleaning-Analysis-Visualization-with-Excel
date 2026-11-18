@@ -151,5 +151,4 @@ The analysis provides valuable insights into sales performance, customer behavio
 
 Aspiring Data Analyst | AI & Data Analytics Enthusiast
 
-Skills: Microsoft Excel | Data Cleaning | Data Analysis | Pivot Tables | Dashboard Development
-
+<img width="1089" height="541" alt="Dashboard" src="https://github.com/user-attachments/assets/a3f6b27e-8ced-4f06-8004-c627a4c95180" />
